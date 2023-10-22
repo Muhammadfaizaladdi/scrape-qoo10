@@ -1,4 +1,4 @@
-![image](https://github.com/Muhammadfaizaladdi/scrape-qoo10/assets/46619269/1b6dbb6e-da72-4cb2-af82-0172aa2fa53d)# scrape-qoo10
+# scrape-qoo10
 This Project Aims to Scrape data from qoo10 website. Several information was collected throug the script such as, product name, category, sub category, price purchased, etc.
 
 The script will loop over the product, and get relevan information. Several tools that used in this project:
