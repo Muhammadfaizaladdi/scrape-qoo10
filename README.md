@@ -5,6 +5,7 @@ The script will loop over the product, and get relevan information. Several tool
 - Python
 - Pandas
 - Request
+- BeautifulSoup
 - and Customize Code
 
 ### Result
